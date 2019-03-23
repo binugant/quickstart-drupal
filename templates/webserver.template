@@ -214,6 +214,7 @@
                 "php56",
                 "php70",
                 "php71"
+                "php72"
             ],
             "ConstraintDescription": "Choose a valid PHP version. Values can be php56, php70, php71 ",
             "Default": "php56",
